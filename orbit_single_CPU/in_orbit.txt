@@ -1,0 +1,14 @@
+principal quantum number n=35
+azimuthal fake quantum number mz=35
+max steps=10000000
+Ex (V/m)=165.501e+3
+Ey (V/m)=0.0e-1
+Ez (V/m)=0.0e-1
+Bx (T)=0.0e+0
+By (T)=0.0e+0
+Bz (T)=1.0e+0
+ramp time (s)=1.0e-10
+time step (s)=1.0e-15
+time limit (s)=2.0e-10
+RK adaptErr=1.0e-10
+method=4

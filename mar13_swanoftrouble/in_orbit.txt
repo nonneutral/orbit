@@ -1,0 +1,13 @@
+scan steps for E=50
+highest value for n=45
+lowest value for n=35
+phi steps=32
+Esweep steps=16
+max sim steps=5.0e+8
+Bx (T)=0.0e+0
+By (T)=0.0e+0
+Bz (T)=0.1e+0
+ramp time (s)=5.0e-10
+time step (s)=1.0e-15
+time limit (s)=1.0e-9
+RK adaptErr=1.0e-13
